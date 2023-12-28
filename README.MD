@@ -8,5 +8,5 @@ de clients de centre commercial. Les principales étapes comprennent le chargeme
 <h2>Kmeans</h2>
 <img src="images/img2.png"><br><br>
 <img src="images/img1.png"><br><br>
-<h2>le score</h2><br><br>
-<img src="images/img1.png"><br><br>
+<h2>le score</h2><br>
+<img src="images/img3.png"><br><br>
