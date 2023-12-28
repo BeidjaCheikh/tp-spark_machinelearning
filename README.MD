@@ -5,5 +5,5 @@
 <h1>Master SDIA2</h1>
 <h2>Kmeans</h2>
 
-<img src="images/img1.png"><br><br>
 <img src="images/img2.png"><br><br>
+<img src="images/img1.png"><br><br>
